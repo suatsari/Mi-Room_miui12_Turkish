@@ -4944,6 +4944,7 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="suw_back_button_label">Geri</string>
   <string name="suw_more_button_label">Daha fazla</string>
   <string name="suw_next_button_label">Sonraki</string>
+  <string name="switch_gesture_side_title">Kontrol merkezi tarafını değiştir</string>
   <string name="switch_off_text">Kapalı</string>
   <string name="switch_on_text">Açık</string>
   <string name="switch_screen_button_order">Ekrandaki Sırası</string>

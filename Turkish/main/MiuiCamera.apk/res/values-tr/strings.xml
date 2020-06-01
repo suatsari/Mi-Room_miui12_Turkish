@@ -1108,6 +1108,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="super_eis_disabled_hint">Sabit video kapalı</string>
   <string name="super_eis_pro">Sabit video Pro</string>
   <string name="super_eis_pro_disabled_hint">Sabit video Pro kapalı</string>
+  <string name="super_macro_mode">Süper makro</string>
   <string name="super_night_hint">Görüntüyü optimize ediliyor… Cihazınızı sabit tutun.</string>
   <string name="super_night_se_tip">Gece modu</string>
   <string name="super_night_toast">Fotoğraf çekerken telefonunuzu sabit tutun</string>

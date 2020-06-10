@@ -2221,6 +2221,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="help_label">Yardım ve geri bildirim</string>
   <string name="hidden_ssid_label">Gizli SSID:</string>
   <string name="hide">Gizle</string>
+  <string name="hide_ext_tile_title">Bilgi düğmesini gizle</string>
   <string name="hide_extra_apps">Uygulama kullanımını göster</string>
   <string name="hide_screen_button">Ekran düğmelerini gizle</string>
   <string name="high_performance_notif_summary">Cihaz ağır kullanım sırasında ısınabilir.</string>

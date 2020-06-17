@@ -1103,6 +1103,7 @@ Sorun şunlar olabilir:
   <string name="change_storage">Depolamayı değiştir</string>
   <string name="change_theme_reboot">Temayı değiştirmek yeniden başlatma gerektirir.</string>
   <string name="channel_notifications_off_desc">Android, bu kategorideki bildirimlerin bu cihazda görünmesini engelliyor</string>
+  <string name="charge_animation_style_title">Şarj animasyonu</string>
   <string name="charge_length_format">%1$s önce</string>
   <string name="charging_sounds_title">Şarj sesleri</string>
   <string name="check_find_device_status_failure_confirm">Tamam</string>
@@ -1926,6 +1927,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="ethernet_data_template">^1 ethernet verisi</string>
   <string name="ethernet_data_usage">Ethernet Veri Kullanımı</string>
   <string name="every_day">Hergün</string>
+  <string name="expanded_weather_enable_title">Hava durumunu göster</string>
   <string name="experimental_category_title">Deneysel</string>
   <string name="experimental_preference">(Deneysel)</string>
   <string name="external_code_size_label">USB Depolama Uygulaması</string>

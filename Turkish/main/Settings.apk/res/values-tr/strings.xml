@@ -1611,6 +1611,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="dialog_title_login">Mi Hesabınızda oturum açın</string>
   <string name="dialog_yes">Evet</string>
   <string name="direct_boot_unaware_dialog_message">Not: Yeniden başlatma sonrası, telefonunuzun kilidi açılana kadar bu uygulama başlatılamaz.</string>
+  <string name="disable_global_dark_mode_title">Global karanlık modu devre dışı bırak</string>
   <string name="disable_overlays">Donanım yerleşimini devre dışı bırak</string>
   <string name="disable_overlays_summary">Ekran oluşturma için her zaman GPU kullanın</string>
   <string name="disable_power_key_long_press_under_keyguard">Güç düğmesi menüsünü kapat</string>
